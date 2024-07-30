@@ -1,0 +1,123 @@
+Questionnaire
+Difficult, breathing, at night
+Response 1: Sleep Apnea 
+Response 2: Sleep
+
+Excessive, thirst, fluid intake
+Response 1: Diabetes
+Response 2: Polyuria
+
+High, blood pressure, chronic
+Response 1: Hypertension 
+Response 2: Hypertension
+
+Loss, muscle, mass
+Response 1: No Answer Given
+Response 2: Atrophy
+
+Pain, joint, inflammation
+Response 1: Arthritis
+Response 2: Arthritis
+
+Fever, rash, infection
+Response 1: No Answer Given
+Response 2: Pyrexia
+
+Swelling, fluid, accumulation
+Response 1: Edema
+Response 2: Edema
+
+Loss, appetite, eating
+Response 1: Anorexia
+Response 2: Anorexia
+
+Sudden, loss, consciousness
+Response 1: No Answer Given
+Response 2: Coma
+
+Painful, urination, frequent
+Response 1: Urinary Tract Infection
+Response 2: Renal
+
+Blurry, vision, eye
+Response 1: No Answer Given
+Response 2: Diplopia
+
+Abnormal, growth, cells
+Response 1: Cancer
+Response 2: Tumor
+
+Shortness, breath, exercise
+Response 1: Asthma
+Response 2: Pulmonary
+
+Rapid, heartbeat, palpitations
+Response 1: Arrhythmia
+Response 2: Tachycardia
+
+
+Jaundice, skin, liver
+Response 1: Hepatitis
+Response 2: Bilirubin
+
+Pain, chest, heart
+Response 1: No Answer Given
+Response 2: Angina
+
+Frequent, bowel, movements
+Response 1: Constipation
+Response 2: Fecal
+
+Severe, headache, sensitivity
+Response 1: Migraine
+Response 2: Migraine
+
+Dark, urine, dehydration
+Response 1: Dehydration
+Response 2: Polyuria
+
+Uncontrolled, diabetes, blood sugar
+Response 1: Insulin
+Response 2: Hyperglycemia
+
+Pain, abdomen, cramping
+Response 1: No Answer Given
+Response 2: Diarrhea
+
+
+Loss, balance, dizziness
+Response 1: Vertigo
+Response 2: Vertigo
+
+Skin, irritation, redness
+Response 1: Dermatitis
+Response 2: Eczema
+
+Thick, mucus, lungs
+Response 1: Pneumonia
+Response 2: Mucus
+
+Pain, neck, stiffness
+Response 1: No Answer Given
+Response 2: Myelopathy
+
+Painful, menstrual, bleeding
+Response 1: Menstruation
+Response 2: Menorrhagia
+
+Abnormal, blood, clotting
+Response 1: Thrombosis
+Response 2: Thrombocytopenia
+
+Joint, stiffness, morning
+Response 1: Arthritis
+Response 2: Arthritis
+
+
+Difficulty, swallowing, esophagus
+Response 1: Dysphagia
+Response 2: Esophageal
+
+Redness, eye, irritation
+Response 1: No Answer Given
+Response 2: Conjunctivitis
